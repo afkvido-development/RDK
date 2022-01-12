@@ -13,7 +13,7 @@ public class Tutorial {
 
         Retard.out.println(rtrd);
 
-        RetardFace.RetardedKid.strip();
+        RetardFace.RetardedKid.strip(); // Retard style
 
     }
 }
