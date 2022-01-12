@@ -33,4 +33,24 @@
 - [RDK: Our contributing guidelines](https://github.com/afkvido/RDK/blob/master/CONTRIBUTING.md)
 </details>
 
+<p></p>
+
+<details>
+<summary>Contact us</summary>
+
+- Discord: [afkvido development](https://disboard.org/server/893975758677086238)
+</details>
+
+<p></p>
+
+<details>
+<summary>Join the collaborator team</summary>
+
+
+1. Read our [contributing guidelines](https://github.com/afkvido/RDK/blob/master/CONTRIBUTING.md), our [code of conduct](https://github.com/afkvido/RDK/blob/master/CODE_OF_CONDUCT.md), our [license](https://github.com/afkvido/RDK/blob/master/LICENSE.md), and our [README](https://github.com/afkvido/RDK/blob/master/README.md) (you're on the README right now) 
+2. If you do not agree to all of those documents, you may still contribute through [pull requests](https://github.com/afkvido/RDK/pulls), as long as you read our [contributing guidelines](https://github.com/afkvido/RDK/blob/master/CONTRIBUTING.md).
+3. Join our discord: [afkvido development](https://disboard.org/server/893975758677086238)
+4. DM me: [gemsvido#6866](https://dsc.bio/gemsvido)
+</details>
+
 ###### For Retards. By Retards.
