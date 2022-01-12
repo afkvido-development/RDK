@@ -1,6 +1,8 @@
 # For Retards. By Retards.
 "RDK" - Retard Development Kit by [gemsvidø](https://github.com/afkvido)
 
+[![Retard Development Kit for Retards](https://github.com/afkvido/RDK/actions/workflows/blank.yml/badge.svg)](https://github.com/afkvido/RDK/actions/workflows/blank.yml)
+
 <details>
 <summary>How to get RDK on your project</summary>
 
