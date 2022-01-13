@@ -44,6 +44,21 @@
 <p></p>
 
 <details>
+<summary>How to contribute to RDK</summary>
+
+
+1. Read our [contributing guidelines](https://github.com/afkvido/RDK/blob/master/CONTRIBUTING.md), our [code of conduct](https://github.com/afkvido/RDK/blob/master/CODE_OF_CONDUCT.md), our [license](https://github.com/afkvido/RDK/blob/master/LICENSE.md), and our [README](https://github.com/afkvido/RDK/blob/master/README.md) (you're on the README right now)
+2. If you agree to our [contributing guidelines](https://github.com/afkvido/RDK/blob/master/CONTRIBUTING.md), then proceed
+3. Join our discord: [afkvido development](https://disboard.org/server/893975758677086238)
+4. You may now contribute through [pull requests](https://github.com/afkvido/RDK/pulls)
+
+*If you're an active contributor, consider joining the collaborator team.*
+
+</details>
+
+<p></p>
+
+<details>
 <summary>Join the collaborator team</summary>
 
 
