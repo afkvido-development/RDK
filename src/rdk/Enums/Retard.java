@@ -1,4 +1,4 @@
-package rdk.Emums;
+package rdk.Enums;
 import rdk.Annotations.RDK;
 
 public @RDK enum Retard {
