@@ -8,7 +8,7 @@
 - Use IntelliJ IDEA
 - Make sure you have JDK 17+ set as your project SDK
 - Go to File => Project Structure => then do the thing where you can add a folder as a library or module idk im a retard
-- Add this folder: `RDL/src/rdk`
+- Add this folder: `RDK/src/rdk`
 - it should work idk
 </details>
 
